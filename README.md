@@ -133,6 +133,13 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 11.A |   07.03    |    Gilardoni      |         45      |     90            |
 | 16.A |   07.03    |     Goedertier     |         45      |     90       |
 | 9.A |   07.03    |     Goedertier   |         45      |     90       |
+| 11.A |   07.03    |     Goedertier   |         45      |     90       |
+| 17.A |   07.03    |     Goedertier   |         45      |     90       |
+| 4.B |   07.03    |     Gilardoni   |         45      |     180       |
+| 4.A |   07.03    |     Koch  |         45      |     90     |
+| 9.A |   07.03    |     Koch  |         45      |    90      |
+| 10.A |   07.03    |     Raviraj    |         45      |     45      |
+| 16.A |   07.03    |     Raviraj    |         45      |     90     |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
