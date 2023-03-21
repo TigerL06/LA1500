@@ -11,7 +11,7 @@
 |     28.02  | 0.0.2  |          Wir haben unsere Arbeit für die nächsten Wochen geplant und haben die Testfälle ausgearbeitet                                                   |
 |   07.03    | 1.0.0   |          Wir haben angefangen die User Stories abzuarbeiten.                                   |
 |   14.03    | 1.1.0   |          Wir haben weiter an unseren User Stories gearbeitet.                                   |
-|   21.03    | 1.1.0   |          Wir haben weiter an unseren User Stories gearbeitet, bei denen wir stehen geblieben sind.                                  |
+|   21.03    | 1.1.0   |          Wir haben weiter an unseren User Stories gearbeitet, bei denen wir stehen geblieben sind und haben eine Präsentation erstellt.                                |
 
 # 1 Informieren
 
