@@ -10,8 +10,10 @@
 |   21.02    | 0.0.1   | Projekt definieren, User Stories machen und zwei Diagramme zu unserem Projekt erstellen |
 |     28.02  | 0.0.2  |          Wir haben unsere Arbeit für die nächsten Wochen geplant und haben die Testfälle ausgearbeitet                                                   |
 |   07.03    | 1.0.0   |          Wir haben angefangen die User Stories abzuarbeiten.                                   |
+|   14.03    | 1.1.0   |          Wir haben weiter an unseren User Stories gearbeitet.                                   |
+|   21.03    | 1.1.0   |          Wir haben weiter an unseren User Stories gearbeitet, bei denen wir stehen geblieben sind.                                  |
 
-## 1 Informieren
+# 1 Informieren
 
 ### 1.1 Ihr Projekt
 
@@ -140,7 +142,10 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 9.A |   07.03    |     Koch  |         45      |    90      |
 | 10.A |   07.03    |     Raviraj    |         45      |     45      |
 | 16.A |   07.03    |     Raviraj    |         45      |     90     |
-
+| 9.B |   07.03    |     Koch    |         45      |     120   |
+| 16.A |   07.03    |     Raviraj    |         45      |     120  |
+| 4.B |   07.03    |      Gilardoni    |         45      |     120    |
+| 17.A |   07.03    |     Goedertier   |         45      |     120    | 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
