@@ -24,12 +24,14 @@ In unserem Projekt geht es um ein Tower-Defence game. Man hat Türme, mit denen 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
 # Reflektion zum 
-👍
+👍Gruppenkommunikation hat gut funktioniert 
+👍Wir haben uns gut verstanden(es gab keine Probleme untereinander)
 
-👎
 
-Gruppenkommunikation hat gut funktioniert und wir haben uns immer gut verstanden, heisst es gab keine Probleme untereinander.
 
-Wir haben uns zu viel vorgenommen und haben unsere Fähigkeiten überschätzt, deswegen haben wir es auch nicht geschafft das Spiel fertigzustellen.
+👎Unrealistisch geplant
+👎Wir haben uns zu viel vorgenommen 
+👎Unsere Fähigkeiten überschätzt
+👎Nicht geschafft das Spiel fertigzustellen.
 
 **VBV**: Wir sollen uns für das nächste mal ein einfacheres Projekt vornehmen.
