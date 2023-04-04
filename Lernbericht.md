@@ -23,7 +23,10 @@ In unserem Projekt geht es um ein Tower-Defence game. Man hat Türme, mit denen 
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
-# Reflektion zum Arbeitsprozess
+# Reflektion zum 
+👍
+
+👎
 
 Gruppenkommunikation hat gut funktioniert und wir haben uns immer gut verstanden, heisst es gab keine Probleme untereinander.
 
