@@ -8,9 +8,7 @@ In unserem Projekt geht es um ein Tower-Defence game. Man hat Türme, mit denen 
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.!
-
-Wir haben gelernt wie man in Unity eine Scene erstellen kann.
+Wir haben gelernt wie man in Unity, in einem 2D Projekt, eine Scene erstellen kann.
 
 
 ## Beschreibung
