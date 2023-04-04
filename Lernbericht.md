@@ -12,7 +12,11 @@ Wir haben gelernt wie man in Unity, in einem 2D Projekt, eine Scene erstellen ka
 
 
 ## Beschreibung
+Um eine Scene in Unity zu erstellen, muss am auf File, oben links, und dann New Scene klicken. Danach kommt ein Fenster, in dem man auswählen kann, ob man die “Basic 3DScene“, die Scene “Empty“ oder die “Basic 2D“ Scene nimmt. Basic 3D ist eine 3D Scene, die schon Grundeinstellungen hat. Empty ist eine Scene, die 2D Scene ist und in der nichts drin ist. Basic 2D ist eine 2D Scene, die die gleichen Grundeinstellungen hat wie in der 3D Scene. Man kann auswählen, was man will, je nach Verwendungsart. Danach wir sich eine Scene öffnen.
+
+Video:
 ![Scene einfügen](https://user-images.githubusercontent.com/110893121/229715848-190236bd-d95e-4ef5-91bc-0e8b22606116.gif)
+
 
 ![2023-04-04](https://user-images.githubusercontent.com/110893121/229716205-ea75df62-c58c-429c-8678-077317786ec9.png)
 
