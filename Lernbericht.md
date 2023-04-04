@@ -20,8 +20,6 @@ Video:
 Bild1:
 ![2023-04-04](https://user-images.githubusercontent.com/110893121/229716205-ea75df62-c58c-429c-8678-077317786ec9.png)
 
-Nachdem man Unity geöffnet hat, muss man oben links zu Files gehen. Nachdem man auf File gedrückt hat, sollte ein Fenster aufkommen, in dem man dann auf "New Scene" drückt.
-
 Bild2:
 ![image](https://user-images.githubusercontent.com/110893121/229716149-dbff3cc2-0760-45ef-8aa7-e5c86453d52b.png)
 
@@ -31,7 +29,11 @@ Diese sind, wie Beschrieben, für 2D, 3D oder man kann ein komplett neues erstel
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Text: Im Text wird beschrieben, wie man eine neue Scene erstellt.
+Video: Im Video wird gezeigt, wie man eine neue Scene erstellt.
+Bild1: Im Bild1 wird nochmals genau gezeigt auf welchen Kopf man drücken muss, um eine Scene zu erstellen.
+Bild2: Im Bild2 wird gezeigt, welche Scene Tippen es gibt.
+
 
 # Reflektion zum 
 
