@@ -154,19 +154,11 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 04.04.23 | Das Hauptmenü erscheint, wenn man das Programm startet. | Koch |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+Unser Programm, wurde nicht fertig geschrieben, das heisst, dass wir nicht alles testen konnten. Aber von den Sachen, die wir hatten, hat das alles funktioniert.
 
 ## 6 Auswerten
 
