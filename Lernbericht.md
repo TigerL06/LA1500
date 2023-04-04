@@ -17,12 +17,12 @@ Um eine Scene in Unity zu erstellen, muss am auf File, oben links, und dann New 
 Video:
 ![Scene einfügen](https://user-images.githubusercontent.com/110893121/229715848-190236bd-d95e-4ef5-91bc-0e8b22606116.gif)
 
-
+Bild1:
 ![2023-04-04](https://user-images.githubusercontent.com/110893121/229716205-ea75df62-c58c-429c-8678-077317786ec9.png)
 
-Nachdem man Unity geöffnet hat, muss man oben links zu files gehen. Nachdem man auf File gedrückt hat, sollte ein Fenster aufkommen, in dem man dann auf "New Scene" drückt.
+Nachdem man Unity geöffnet hat, muss man oben links zu Files gehen. Nachdem man auf File gedrückt hat, sollte ein Fenster aufkommen, in dem man dann auf "New Scene" drückt.
 
-
+Bild2:
 ![image](https://user-images.githubusercontent.com/110893121/229716149-dbff3cc2-0760-45ef-8aa7-e5c86453d52b.png)
 
 Nachdem man "New Scene" gedrückt hat, sollt noch ein Fenster aufkommen, in dem man drei Auswahlen zur Verfügung gestellt bekommt.
