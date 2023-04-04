@@ -1,4 +1,5 @@
 # Lern-Bericht
+Gruppe Orchid
 Liam Koch, Raul Gilardoni, Sanjay Raviraj, Timo Goedertier
 
 ## Einleitung
@@ -24,8 +25,8 @@ In unserem Projekt geht es um ein Tower-Defence game. Man hat Türme, mit denen 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Gruppenkommunikation hat gut funktioniert und wir haben uns immer gut verstanden, heisst es gab keine Probleme untereinander.
 
-👎 und etwas, was nicht gut lief.
+Wir haben uns zu viel vorgenommen und haben unsere Fähigkeiten überschätzt, deswegen haben wir es auch nicht geschafft das Spiel fertigzustellen.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
