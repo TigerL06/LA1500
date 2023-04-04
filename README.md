@@ -159,4 +159,4 @@ Unser Programm, wurde nicht fertig geschrieben, das heisst, dass wir nicht alles
 
 ## 6 Auswerten
 
-
+https://github.com/TigerL06/LA1500/blob/main/Lernbericht.md
