@@ -29,4 +29,4 @@ Gruppenkommunikation hat gut funktioniert und wir haben uns immer gut verstanden
 
 Wir haben uns zu viel vorgenommen und haben unsere Fähigkeiten überschätzt, deswegen haben wir es auch nicht geschafft das Spiel fertigzustellen.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Wir sollen uns für das nächste mal ein einfacheres Projekt vornehmen.
