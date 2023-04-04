@@ -8,16 +8,14 @@ In unserem Projekt geht es um ein Tower-Defence game. Man hat Türme, mit denen 
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.!
+
+Wir haben gelernt wie man in Unity eine Scene erstellen kann.
+
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+[Scene einfügen](https://user-images.githubusercontent.com/110893121/229715430-6bbd633b-c006-4ec2-8f67-e81ebae97fee.gif)
 
 ## Verifikation
 
