@@ -155,7 +155,7 @@ Keine
 
 
 
-Unser Programm, wurde nicht fertig geschrieben, das heisst, dass wir nicht alles testen konnten. Aber von den Sachen, die wir hatten, hat das alles funktioniert. Somit konnten wir auch kein exploratives Testen machen.
+Unser Programm, wurde nicht fertig geschrieben, das heisst, dass wir nicht alles testen konnten. Aber von den Sachen, die wir hatten, hat das alles funktioniert. Somit konnten wir auch kein exploratives Testen machen, weil wir gar kein Programm testen konnten sondern nur einzelne Teile von einem Programm.
 
 ## 6 Auswerten
 [Lernbericht](https://github.com/TigerL06/LA1500/blob/main/Lernbericht.md)
