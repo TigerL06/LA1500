@@ -158,5 +158,4 @@ Keine
 Unser Programm, wurde nicht fertig geschrieben, das heisst, dass wir nicht alles testen konnten. Aber von den Sachen, die wir hatten, hat das alles funktioniert.
 
 ## 6 Auswerten
-
-https://github.com/TigerL06/LA1500/blob/main/Lernbericht.md
+[Lernbericht.md](https://github.com/TigerL06/LA1500/blob/main/Lernbericht.md)
