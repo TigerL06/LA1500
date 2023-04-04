@@ -18,10 +18,13 @@ Wir haben gelernt wie man in Unity eine Scene erstellen kann.
 
 ![2023-04-04](https://user-images.githubusercontent.com/110893121/229716205-ea75df62-c58c-429c-8678-077317786ec9.png)
 
+Nachdem man Unity geöffnet hat, muss man oben links zu files gehen. Nachdem man auf File gedrückt hat, sollte ein Fenster aufkommen, in dem man dann auf "New Scene" drückt.
+
 
 ![image](https://user-images.githubusercontent.com/110893121/229716149-dbff3cc2-0760-45ef-8aa7-e5c86453d52b.png)
 
-
+Nachdem man "New Scene" gedrückt hat, sollt noch ein Fenster aufkommen, in dem man drei Auswahlen zur Verfügung gestellt bekommt.
+Diese sind, wie Beschrieben, für 2D, 3D oder man kann ein komplett neues erstellen, ohne etwas.
 
 
 ## Verifikation
@@ -29,9 +32,9 @@ Wir haben gelernt wie man in Unity eine Scene erstellen kann.
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
 
 # Reflektion zum 
+
 👍Gruppenkommunikation hat gut funktioniert 
 👍Wir haben uns gut verstanden(es gab keine Probleme untereinander)
-
 
 
 👎Unrealistisch geplant
