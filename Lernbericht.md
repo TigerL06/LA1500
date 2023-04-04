@@ -30,8 +30,11 @@ Diese sind, wie Beschrieben, für 2D, 3D oder man kann ein komplett neues erstel
 ## Verifikation
 
 Text: Im Text wird beschrieben, wie man eine neue Scene erstellt.
+
 Video: Im Video wird gezeigt, wie man eine neue Scene erstellt.
+
 Bild1: Im Bild1 wird nochmals genau gezeigt auf welchen Kopf man drücken muss, um eine Scene zu erstellen.
+
 Bild2: Im Bild2 wird gezeigt, welche Scene Tippen es gibt.
 
 
