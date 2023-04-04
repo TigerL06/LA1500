@@ -23,8 +23,6 @@ Bild1:
 Bild2:
 ![image](https://user-images.githubusercontent.com/110893121/229716149-dbff3cc2-0760-45ef-8aa7-e5c86453d52b.png)
 
-Nachdem man "New Scene" gedrückt hat, sollt noch ein Fenster aufkommen, in dem man drei Auswahlen zur Verfügung gestellt bekommt.
-Diese sind, wie Beschrieben, für 2D, 3D oder man kann ein komplett neues erstellen, ohne etwas.
 
 
 ## Verifikation
@@ -46,7 +44,7 @@ Bild2: Im Bild2 wird gezeigt, welche Scene Tippen es gibt.
 
 
 
-👎Unrealistisch geplant
+
 
 👎Wir haben uns zu viel vorgenommen 
 
@@ -55,4 +53,7 @@ Bild2: Im Bild2 wird gezeigt, welche Scene Tippen es gibt.
 👎Nicht geschafft das Spiel fertigzustellen.
 
 
-**VBV**: Wir sollen uns für das nächste mal ein einfacheres Projekt vornehmen.
+**VBV**: 
+Wir sollen uns für das nächste Mal ein einfacheres Projekt vornehmen. 
+Wir sollten besser abklären, wie gut wir in diesem Thema sind, also kurz testen, was wir können zum Beispiel ein kleines Übungsprojekt machen. 
+Dazu sollten wir, bevor wir ein Projekt aussuchen auch zuerst mal schauen, wie schwer das ist. Also kurz selber Abklären, was man alles dafür machen kann. Zum Beispiel über YouTube ein paar Anleitungen zu schauen
