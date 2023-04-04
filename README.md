@@ -1,9 +1,9 @@
 # LA1500
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Orchid: Gilardoni, Goedertier, Raviraj und Koch
+
+ Orchid: Gilardoni, Goedertier, Raviraj und Koch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -45,7 +45,6 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 16   |  muss               |   funktional   | Als Entwickler möchte ich, dass das Spiel eine 'Hauptmap' hat, damit der Spieler sieht wo er was machen kann in einer Runde. |
 | 17   |  kann               |   rand         | Als Spieler möchte ich, dass das Spiel verschiedene Maps hat, damit ich abwechslungsweise diese Maps spielen kann. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -73,7 +72,7 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 16.1 | Die Runde wird gestartet | Nichts | Die Figur des Spielers ist auf einer schon vorbereiteten Map. |
 | 17.1 | Man ist im Hauptmenü | Man drückt den Startknopf | Bevor die Runde anfängt, kann der Spieler aus einem Sortiment von mehreren Maps eine davon auswählen. |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 <img![image](https://user-images.githubusercontent.com/110893121/220322745-6f710a14-7274-4404-822a-a6fa3db3cd10.png)
@@ -121,7 +120,7 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Keine
 
 ## 4 Realisieren
 
@@ -146,7 +145,7 @@ Für unser Spiel benutzen wir die Programmiersprache c# und verwenden Unity mit 
 | 16.A |   07.03    |     Raviraj    |         45      |     120  |
 | 4.B |   07.03    |      Gilardoni    |         45      |     120    |
 | 17.A |   07.03    |     Goedertier   |         45      |     120    | 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
