@@ -41,12 +41,18 @@ Bild2: Im Bild2 wird gezeigt, welche Scene Tippen es gibt.
 # Reflektion zum 
 
 👍Gruppenkommunikation hat gut funktioniert 
+
 👍Wir haben uns gut verstanden(es gab keine Probleme untereinander)
 
 
+
 👎Unrealistisch geplant
+
 👎Wir haben uns zu viel vorgenommen 
+
 👎Unsere Fähigkeiten überschätzt
+
 👎Nicht geschafft das Spiel fertigzustellen.
+
 
 **VBV**: Wir sollen uns für das nächste mal ein einfacheres Projekt vornehmen.
