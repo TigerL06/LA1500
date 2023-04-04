@@ -1,9 +1,9 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Liam Koch, Raul Gilardoni, Sanjay Raviraj, Timo Goedertier
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In unserem Projekt geht es um ein Tower-Defence game. Man hat Türme, mit denen man sich verteidigt und es gibt gegner, die angreifen.
 
 ## Was habe ich gelernt?
 
